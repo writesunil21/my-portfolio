@@ -38,7 +38,7 @@ export default function Hero() {
             Hire Me
           </a>
           <a
-            href="/resume.pdf"
+            href="/resume.pdf" download
             className="px-6 py-3 border border-white rounded-lg hover:bg-white/10"
           >
             Download Resume
