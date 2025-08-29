@@ -33,7 +33,7 @@ export default function Contact() {
 
         <div className="flex space-x-4 mt-4">
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/writesunil21"
             target="_blank"
             rel="noreferrer"
             className="px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700"
